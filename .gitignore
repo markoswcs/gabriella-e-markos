@@ -1,0 +1,15 @@
+# Gitignore for amor project
+rename.ps1
+find_git.ps1
+
+# Original folders with special chars (keep clean versions only)
+música/
+3 mosqueteiros/
+
+# Original WhatsApp filenames (keep clean renamed versions)
+fotos/WhatsApp*
+fotos/video-01.mp4
+
+# System
+Thumbs.db
+.DS_Store
